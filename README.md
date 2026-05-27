@@ -102,6 +102,4 @@ php artisan serve
 
 Preeti Attri
 
-## License
 
-This project is licensed under the MIT License.
